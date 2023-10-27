@@ -1,55 +1,46 @@
 research:
-  D1: Frequency: 2 - Weight: 0.16218604324326577
-  D1: Frequency: 2 - Weight: 0.16218604324326577
-  D3: Frequency: 3 - Weight: 0.13515503603605478
-  D3: Frequency: 3 - Weight: 0.13515503603605478
-  D3: Frequency: 3 - Weight: 0.13515503603605478
-  D6: Frequency: 2 - Weight: 0.07372092874693899
-  D6: Frequency: 2 - Weight: 0.07372092874693899
+  D1: Frequency: 2 - Weight: 0.2772588722239781
+  D1: Frequency: 2 - Weight: 0.2772588722239781
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 success:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 apply:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 larg:
   D1: Frequency: 1 - Weight: 0.03646431135879092
-  D2: Frequency: 1 - Weight: 0.020257950754883843
-  D3: Frequency: 1 - Weight: 0.020257950754883843
-  D4: Frequency: 1 - Weight: 0.020257950754883843
+  D2: Frequency: 1 - Weight: 0.030386926132325763
+  D3: Frequency: 1 - Weight: 0.03646431135879092
+  D4: Frequency: 1 - Weight: 0.026045936684850654
 langu:
   D1: Frequency: 1 - Weight: 0.08109302162163289
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 1 - Weight: 0.05792358687259491
 model:
-  D1: Frequency: 3 - Weight: -0.09249040789635501
-  D1: Frequency: 3 - Weight: -0.09249040789635501
-  D1: Frequency: 3 - Weight: -0.09249040789635501
-  D2: Frequency: 7 - Weight: -0.11989497319897872
-  D2: Frequency: 7 - Weight: -0.11989497319897872
-  D2: Frequency: 7 - Weight: -0.11989497319897872
-  D2: Frequency: 7 - Weight: -0.11989497319897872
-  D2: Frequency: 7 - Weight: -0.11989497319897872
-  D2: Frequency: 7 - Weight: -0.11989497319897872
-  D2: Frequency: 7 - Weight: -0.11989497319897872
-  D3: Frequency: 1 - Weight: -0.017127853314139817
-  D4: Frequency: 2 - Weight: -0.034255706628279634
-  D4: Frequency: 2 - Weight: -0.034255706628279634
+  D1: Frequency: 2 - Weight: -0.06166027193090334
+  D1: Frequency: 2 - Weight: -0.06166027193090334
+  D2: Frequency: 6 - Weight: -0.15415067982725836
+  D2: Frequency: 6 - Weight: -0.15415067982725836
+  D2: Frequency: 6 - Weight: -0.15415067982725836
+  D2: Frequency: 6 - Weight: -0.15415067982725836
+  D2: Frequency: 6 - Weight: -0.15415067982725836
+  D2: Frequency: 6 - Weight: -0.15415067982725836
+  D3: Frequency: 1 - Weight: -0.03083013596545167
+  D4: Frequency: 2 - Weight: -0.04404305137921667
+  D4: Frequency: 2 - Weight: -0.04404305137921667
   D5: Frequency: 1 - Weight: -0.03083013596545167
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-  D6: Frequency: 11 - Weight: -0.15415067982725836
-llms:
-  D1: Frequency: 2 - Weight: 0.16218604324326577
-  D1: Frequency: 2 - Weight: 0.16218604324326577
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+  D6: Frequency: 9 - Weight: -0.15415067982725836
+(llms):
+  D1: Frequency: 1 - Weight: 0.08109302162163289
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 1 - Weight: 0.05792358687259491
 chatgpt:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 rerank:
@@ -60,7 +51,7 @@ rerank:
   D1: Frequency: 5 - Weight: 1.0986122886681098
 inform:
   D1: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 retriev:
   D1: Frequency: 1 - Weight: 0.0
   D2: Frequency: 3 - Weight: 0.0
@@ -72,18 +63,13 @@ retriev:
   D5: Frequency: 2 - Weight: 0.0
   D5: Frequency: 2 - Weight: 0.0
   D6: Frequency: 1 - Weight: 0.0
-context:
-  D1: Frequency: 1 - Weight: 0.13862943611198905
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-dat:
-  D1: Frequency: 1 - Weight: 0.08109302162163289
-  D2: Frequency: 1 - Weight: 0.04505167867868493
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+context,:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
+date,:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
 work:
-  D1: Frequency: 2 - Weight: 0.2772588722239781
-  D1: Frequency: 2 - Weight: 0.2772588722239781
-  D5: Frequency: 1 - Weight: 0.13862943611198905
+  D1: Frequency: 2 - Weight: 0.43944491546724396
+  D1: Frequency: 2 - Weight: 0.43944491546724396
 most:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 built:
@@ -99,43 +85,37 @@ opaqu:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 ap:
   D1: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-endpoint:
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+endpoints.:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 approach:
   D1: Frequency: 1 - Weight: 0.08109302162163289
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
-  D4: Frequency: 9 - Weight: 0.4054651081081644
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 7 - Weight: 0.4054651081081644
+  D4: Frequency: 7 - Weight: 0.4054651081081644
+  D4: Frequency: 7 - Weight: 0.4054651081081644
+  D4: Frequency: 7 - Weight: 0.4054651081081644
+  D4: Frequency: 7 - Weight: 0.4054651081081644
+  D4: Frequency: 7 - Weight: 0.4054651081081644
+  D4: Frequency: 7 - Weight: 0.4054651081081644
 yield:
   D1: Frequency: 1 - Weight: 0.13862943611198905
-  D2: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.11552453009332421
 expery:
   D1: Frequency: 2 - Weight: 0.16218604324326577
   D1: Frequency: 2 - Weight: 0.16218604324326577
-  D2: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
+  D2: Frequency: 1 - Weight: 0.06757751801802739
+  D4: Frequency: 1 - Weight: 0.05792358687259491
 result:
   D1: Frequency: 2 - Weight: 0.0
   D1: Frequency: 2 - Weight: 0.0
-  D2: Frequency: 3 - Weight: 0.0
-  D2: Frequency: 3 - Weight: 0.0
-  D2: Frequency: 3 - Weight: 0.0
+  D2: Frequency: 1 - Weight: 0.0
   D3: Frequency: 1 - Weight: 0.0
   D4: Frequency: 1 - Weight: 0.0
   D6: Frequency: 1 - Weight: 0.0
 reproduc:
   D1: Frequency: 1 - Weight: 0.21972245773362198
-non:
-  D1: Frequency: 1 - Weight: 0.21972245773362198
-determin:
+non-deterministic,:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 threatening:
   D1: Frequency: 1 - Weight: 0.21972245773362198
@@ -147,122 +127,92 @@ build:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 shaky:
   D1: Frequency: 1 - Weight: 0.21972245773362198
-found:
-  D1: Frequency: 2 - Weight: 0.43944491546724396
-  D1: Frequency: 2 - Weight: 0.43944491546724396
+foundations.:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
 address:
   D1: Frequency: 1 - Weight: 0.03646431135879092
-  D2: Frequency: 1 - Weight: 0.020257950754883843
-  D3: Frequency: 1 - Weight: 0.020257950754883843
-  D6: Frequency: 1 - Weight: 0.0165746869812686
+  D2: Frequency: 1 - Weight: 0.030386926132325763
+  D3: Frequency: 1 - Weight: 0.03646431135879092
+  D6: Frequency: 1 - Weight: 0.020257950754883843
 sign:
   D1: Frequency: 1 - Weight: 0.08109302162163289
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
-shortcom:
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 1 - Weight: 0.05792358687259491
+shortcoming,:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 pres:
   D1: Frequency: 1 - Weight: 0.21972245773362198
-rankvicun:
+rankvicuna,:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 first:
-  D1: Frequency: 1 - Weight: 0.08109302162163289
-  D4: Frequency: 1 - Weight: 0.04505167867868493
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+  D1: Frequency: 1 - Weight: 0.13862943611198905
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 ful:
   D1: Frequency: 1 - Weight: 0.13862943611198905
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-op:
-  D1: Frequency: 1 - Weight: 0.21972245773362198
-sourc:
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+open-source:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 llm:
   D1: Frequency: 1 - Weight: 0.08109302162163289
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 4 - Weight: 0.18020671471473973
-  D4: Frequency: 4 - Weight: 0.18020671471473973
-  D4: Frequency: 4 - Weight: 0.18020671471473973
-  D4: Frequency: 4 - Weight: 0.18020671471473973
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 1 - Weight: 0.05792358687259491
 cap:
   D1: Frequency: 1 - Weight: 0.13862943611198905
-  D2: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.11552453009332421
 perform:
-  D1: Frequency: 1 - Weight: 0.0
-  D2: Frequency: 2 - Weight: 0.0
-  D2: Frequency: 2 - Weight: 0.0
-  D3: Frequency: 2 - Weight: 0.0
-  D3: Frequency: 2 - Weight: 0.0
-  D5: Frequency: 2 - Weight: 0.0
-  D5: Frequency: 2 - Weight: 0.0
-  D6: Frequency: 1 - Weight: 0.0
-high:
   D1: Frequency: 1 - Weight: 0.03646431135879092
-  D3: Frequency: 1 - Weight: 0.020257950754883843
-  D4: Frequency: 3 - Weight: 0.060773852264651526
-  D4: Frequency: 3 - Weight: 0.060773852264651526
-  D4: Frequency: 3 - Weight: 0.060773852264651526
-  D6: Frequency: 1 - Weight: 0.0165746869812686
-qual:
-  D1: Frequency: 1 - Weight: 0.13862943611198905
-  D3: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.030386926132325763
+  D3: Frequency: 2 - Weight: 0.07292862271758184
+  D3: Frequency: 2 - Weight: 0.07292862271758184
+  D6: Frequency: 1 - Weight: 0.020257950754883843
+high-quality:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
 listw:
   D1: Frequency: 1 - Weight: 0.13862943611198905
-  D4: Frequency: 1 - Weight: 0.07701635339554948
-zero:
+  D4: Frequency: 1 - Weight: 0.09902102579427789
+zero-shot:
   D1: Frequency: 2 - Weight: 0.2772588722239781
   D1: Frequency: 2 - Weight: 0.2772588722239781
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-shot:
-  D1: Frequency: 2 - Weight: 0.2772588722239781
-  D1: Frequency: 2 - Weight: 0.2772588722239781
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-  D4: Frequency: 6 - Weight: 0.46209812037329684
-set:
-  D1: Frequency: 1 - Weight: 0.13862943611198905
-  D5: Frequency: 2 - Weight: 0.2772588722239781
-  D5: Frequency: 2 - Weight: 0.2772588722239781
+  D4: Frequency: 6 - Weight: 0.5941261547656673
+  D4: Frequency: 6 - Weight: 0.5941261547656673
+  D4: Frequency: 6 - Weight: 0.5941261547656673
+  D4: Frequency: 6 - Weight: 0.5941261547656673
+  D4: Frequency: 6 - Weight: 0.5941261547656673
+  D4: Frequency: 6 - Weight: 0.5941261547656673
+setting.:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
 trec:
-  D1: Frequency: 1 - Weight: 0.0
-  D2: Frequency: 1 - Weight: 0.0
-  D4: Frequency: 1 - Weight: 0.0
-  D5: Frequency: 2 - Weight: 0.0
-  D5: Frequency: 2 - Weight: 0.0
-  D6: Frequency: 1 - Weight: 0.0
+  D1: Frequency: 1 - Weight: 0.03646431135879092
+  D4: Frequency: 1 - Weight: 0.026045936684850654
+  D5: Frequency: 2 - Weight: 0.07292862271758184
+  D5: Frequency: 2 - Weight: 0.07292862271758184
+  D6: Frequency: 1 - Weight: 0.020257950754883843
 2019:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 2020:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 deep:
   D1: Frequency: 1 - Weight: 0.08109302162163289
-  D2: Frequency: 3 - Weight: 0.13515503603605478
-  D2: Frequency: 3 - Weight: 0.13515503603605478
-  D2: Frequency: 3 - Weight: 0.13515503603605478
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+  D2: Frequency: 3 - Weight: 0.2027325540540822
+  D2: Frequency: 3 - Weight: 0.2027325540540822
+  D2: Frequency: 3 - Weight: 0.2027325540540822
+  D6: Frequency: 1 - Weight: 0.04505167867868493
 learn:
   D1: Frequency: 1 - Weight: 0.03646431135879092
-  D2: Frequency: 2 - Weight: 0.040515901509767686
-  D2: Frequency: 2 - Weight: 0.040515901509767686
+  D2: Frequency: 2 - Weight: 0.060773852264651526
+  D2: Frequency: 2 - Weight: 0.060773852264651526
   D5: Frequency: 5 - Weight: 0.1823215567939546
   D5: Frequency: 5 - Weight: 0.1823215567939546
   D5: Frequency: 5 - Weight: 0.1823215567939546
   D5: Frequency: 5 - Weight: 0.1823215567939546
   D5: Frequency: 5 - Weight: 0.1823215567939546
-  D6: Frequency: 2 - Weight: 0.0331493739625372
-  D6: Frequency: 2 - Weight: 0.0331493739625372
+  D6: Frequency: 2 - Weight: 0.040515901509767686
+  D6: Frequency: 2 - Weight: 0.040515901509767686
 track:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 show:
   D1: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 achiev:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 effect:
@@ -271,24 +221,16 @@ effect:
   D2: Frequency: 1 - Weight: 0.0
   D3: Frequency: 2 - Weight: 0.0
   D3: Frequency: 2 - Weight: 0.0
-  D4: Frequency: 5 - Weight: 0.0
-  D4: Frequency: 5 - Weight: 0.0
-  D4: Frequency: 5 - Weight: 0.0
-  D4: Frequency: 5 - Weight: 0.0
-  D4: Frequency: 5 - Weight: 0.0
+  D4: Frequency: 3 - Weight: 0.0
+  D4: Frequency: 3 - Weight: 0.0
+  D4: Frequency: 3 - Weight: 0.0
   D5: Frequency: 1 - Weight: 0.0
 comp:
   D1: Frequency: 1 - Weight: 0.03646431135879092
-  D2: Frequency: 1 - Weight: 0.020257950754883843
-  D3: Frequency: 1 - Weight: 0.020257950754883843
-  D4: Frequency: 1 - Weight: 0.020257950754883843
-gpt:
-  D1: Frequency: 2 - Weight: 0.2772588722239781
-  D1: Frequency: 2 - Weight: 0.2772588722239781
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-3:
-  D1: Frequency: 1 - Weight: 0.21972245773362198
-5:
+  D2: Frequency: 1 - Weight: 0.030386926132325763
+  D3: Frequency: 1 - Weight: 0.03646431135879092
+  D4: Frequency: 1 - Weight: 0.026045936684850654
+gpt-3.5:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 much:
   D1: Frequency: 1 - Weight: 0.21972245773362198
@@ -298,262 +240,246 @@ smal:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 paramet:
   D1: Frequency: 1 - Weight: 0.21972245773362198
+model,:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
 although:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 remain:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 slight:
   D1: Frequency: 1 - Weight: 0.21972245773362198
-4:
-  D1: Frequency: 1 - Weight: 0.08109302162163289
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D5: Frequency: 1 - Weight: 0.08109302162163289
+gpt-4.:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
 hop:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 provid:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
+found:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 fut:
   D1: Frequency: 1 - Weight: 0.21972245773362198
 modern:
   D1: Frequency: 1 - Weight: 0.21972245773362198
+llms.:
+  D1: Frequency: 1 - Weight: 0.21972245773362198
 adv:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-transform:
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-bas:
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D3: Frequency: 2 - Weight: 0.0
-  D3: Frequency: 2 - Weight: 0.0
-  D4: Frequency: 3 - Weight: 0.0
-  D4: Frequency: 3 - Weight: 0.0
-  D4: Frequency: 3 - Weight: 0.0
-  D5: Frequency: 2 - Weight: 0.0
-  D5: Frequency: 2 - Weight: 0.0
-  D6: Frequency: 1 - Weight: 0.0
-architect:
-  D2: Frequency: 2 - Weight: 0.24413606414846883
-  D2: Frequency: 2 - Weight: 0.24413606414846883
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+transformer-based:
+  D2: Frequency: 3 - Weight: 0.5493061443340549
+  D2: Frequency: 3 - Weight: 0.5493061443340549
+  D2: Frequency: 3 - Weight: 0.5493061443340549
+architectures,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+context:
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+  D2: Frequency: 2 - Weight: 0.3662040962227032
 repres:
-  D2: Frequency: 4 - Weight: 0.3080654135821979
-  D2: Frequency: 4 - Weight: 0.3080654135821979
-  D2: Frequency: 4 - Weight: 0.3080654135821979
-  D2: Frequency: 4 - Weight: 0.3080654135821979
-  D3: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 3 - Weight: 0.34657359027997264
+  D2: Frequency: 3 - Weight: 0.34657359027997264
+  D2: Frequency: 3 - Weight: 0.34657359027997264
+  D3: Frequency: 1 - Weight: 0.13862943611198905
 text:
-  D2: Frequency: 4 - Weight: 0.48827212829693767
-  D2: Frequency: 4 - Weight: 0.48827212829693767
-  D2: Frequency: 4 - Weight: 0.48827212829693767
-  D2: Frequency: 4 - Weight: 0.48827212829693767
+  D2: Frequency: 4 - Weight: 0.7324081924454064
+  D2: Frequency: 4 - Weight: 0.7324081924454064
+  D2: Frequency: 4 - Weight: 0.7324081924454064
+  D2: Frequency: 4 - Weight: 0.7324081924454064
+dat:
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 lev:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 query:
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D2: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D3: Frequency: 9 - Weight: 0.1823215567939546
-  D5: Frequency: 5 - Weight: 0.1823215567939546
-  D5: Frequency: 5 - Weight: 0.1823215567939546
-  D5: Frequency: 5 - Weight: 0.1823215567939546
-  D5: Frequency: 5 - Weight: 0.1823215567939546
-  D5: Frequency: 5 - Weight: 0.1823215567939546
-  D6: Frequency: 5 - Weight: 0.082873434906343
-  D6: Frequency: 5 - Weight: 0.082873434906343
-  D6: Frequency: 5 - Weight: 0.082873434906343
-  D6: Frequency: 5 - Weight: 0.082873434906343
-  D6: Frequency: 5 - Weight: 0.082873434906343
+  D2: Frequency: 5 - Weight: 0.15193463066162882
+  D2: Frequency: 5 - Weight: 0.15193463066162882
+  D2: Frequency: 5 - Weight: 0.15193463066162882
+  D2: Frequency: 5 - Weight: 0.15193463066162882
+  D2: Frequency: 5 - Weight: 0.15193463066162882
+  D3: Frequency: 5 - Weight: 0.1823215567939546
+  D3: Frequency: 5 - Weight: 0.1823215567939546
+  D3: Frequency: 5 - Weight: 0.1823215567939546
+  D3: Frequency: 5 - Weight: 0.1823215567939546
+  D3: Frequency: 5 - Weight: 0.1823215567939546
+  D5: Frequency: 2 - Weight: 0.07292862271758184
+  D5: Frequency: 2 - Weight: 0.07292862271758184
+  D6: Frequency: 2 - Weight: 0.040515901509767686
+  D6: Frequency: 2 - Weight: 0.040515901509767686
 docu:
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
-  D2: Frequency: 7 - Weight: 0.0
+  D2: Frequency: 5 - Weight: 0.0
+  D2: Frequency: 5 - Weight: 0.0
+  D2: Frequency: 5 - Weight: 0.0
+  D2: Frequency: 5 - Weight: 0.0
+  D2: Frequency: 5 - Weight: 0.0
   D3: Frequency: 3 - Weight: 0.0
   D3: Frequency: 3 - Weight: 0.0
   D3: Frequency: 3 - Weight: 0.0
   D4: Frequency: 2 - Weight: 0.0
   D4: Frequency: 2 - Weight: 0.0
-  D5: Frequency: 5 - Weight: 0.0
-  D5: Frequency: 5 - Weight: 0.0
-  D5: Frequency: 5 - Weight: 0.0
-  D5: Frequency: 5 - Weight: 0.0
-  D5: Frequency: 5 - Weight: 0.0
-  D6: Frequency: 5 - Weight: 0.0
-  D6: Frequency: 5 - Weight: 0.0
-  D6: Frequency: 5 - Weight: 0.0
-  D6: Frequency: 5 - Weight: 0.0
-  D6: Frequency: 5 - Weight: 0.0
-low:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-dimend:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D5: Frequency: 4 - Weight: 0.0
+  D5: Frequency: 4 - Weight: 0.0
+  D5: Frequency: 4 - Weight: 0.0
+  D5: Frequency: 4 - Weight: 0.0
+  D6: Frequency: 2 - Weight: 0.0
+  D6: Frequency: 2 - Weight: 0.0
+low-dimensional:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 dens:
-  D2: Frequency: 3 - Weight: 0.23104906018664842
-  D2: Frequency: 3 - Weight: 0.23104906018664842
-  D2: Frequency: 3 - Weight: 0.23104906018664842
+  D2: Frequency: 3 - Weight: 0.34657359027997264
+  D2: Frequency: 3 - Weight: 0.34657359027997264
+  D2: Frequency: 3 - Weight: 0.34657359027997264
   D5: Frequency: 2 - Weight: 0.2772588722239781
   D5: Frequency: 2 - Weight: 0.2772588722239781
 vect:
-  D2: Frequency: 5 - Weight: 0.6103401603711721
-  D2: Frequency: 5 - Weight: 0.6103401603711721
-  D2: Frequency: 5 - Weight: 0.6103401603711721
-  D2: Frequency: 5 - Weight: 0.6103401603711721
-  D2: Frequency: 5 - Weight: 0.6103401603711721
-spac:
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D6: Frequency: 2 - Weight: 0.12602676010180824
-  D6: Frequency: 2 - Weight: 0.12602676010180824
+  D2: Frequency: 5 - Weight: 0.9155102405567582
+  D2: Frequency: 5 - Weight: 0.9155102405567582
+  D2: Frequency: 5 - Weight: 0.9155102405567582
+  D2: Frequency: 5 - Weight: 0.9155102405567582
+  D2: Frequency: 5 - Weight: 0.9155102405567582
+space.:
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 embed:
-  D2: Frequency: 3 - Weight: 0.13515503603605478
-  D2: Frequency: 3 - Weight: 0.13515503603605478
-  D2: Frequency: 3 - Weight: 0.13515503603605478
-  D5: Frequency: 5 - Weight: 0.4054651081081644
-  D5: Frequency: 5 - Weight: 0.4054651081081644
-  D5: Frequency: 5 - Weight: 0.4054651081081644
-  D5: Frequency: 5 - Weight: 0.4054651081081644
-  D5: Frequency: 5 - Weight: 0.4054651081081644
-  D6: Frequency: 2 - Weight: 0.07372092874693899
-  D6: Frequency: 2 - Weight: 0.07372092874693899
+  D2: Frequency: 1 - Weight: 0.06757751801802739
+  D5: Frequency: 4 - Weight: 0.32437208648653154
+  D5: Frequency: 4 - Weight: 0.32437208648653154
+  D5: Frequency: 4 - Weight: 0.32437208648653154
+  D5: Frequency: 4 - Weight: 0.32437208648653154
+  D6: Frequency: 2 - Weight: 0.09010335735736986
+  D6: Frequency: 2 - Weight: 0.09010335735736986
 fix:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-siz:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D4: Frequency: 1 - Weight: 0.07701635339554948
-understand:
-  D2: Frequency: 2 - Weight: 0.24413606414846883
-  D2: Frequency: 2 - Weight: 0.24413606414846883
-study:
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D4: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+sizes,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+understanding.:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+study,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 design:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D3: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D3: Frequency: 1 - Weight: 0.13862943611198905
 pipelin:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 search:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.11552453009332421
   D5: Frequency: 2 - Weight: 0.2772588722239781
   D5: Frequency: 2 - Weight: 0.2772588722239781
+spac:
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 combin:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+understand:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 bert:
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-  D2: Frequency: 3 - Weight: 0.3662040962227032
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+  D2: Frequency: 2 - Weight: 0.3662040962227032
 phrase:
-  D2: Frequency: 2 - Weight: 0.24413606414846883
-  D2: Frequency: 2 - Weight: 0.24413606414846883
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+embedding-based:
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D5: Frequency: 1 - Weight: 0.13862943611198905
 expand:
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D6: Frequency: 4 - Weight: 0.2520535202036165
-  D6: Frequency: 4 - Weight: 0.2520535202036165
-  D6: Frequency: 4 - Weight: 0.2520535202036165
-  D6: Frequency: 4 - Weight: 0.2520535202036165
-fin:
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-  D2: Frequency: 3 - Weight: 0.3662040962227032
-tun:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D6: Frequency: 4 - Weight: 0.3080654135821979
+  D6: Frequency: 4 - Weight: 0.3080654135821979
+  D6: Frequency: 4 - Weight: 0.3080654135821979
+  D6: Frequency: 4 - Weight: 0.3080654135821979
+model.:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+representations,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+fine-tuned:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 sem:
-  D2: Frequency: 2 - Weight: 0.09010335735736986
-  D2: Frequency: 2 - Weight: 0.09010335735736986
+  D2: Frequency: 2 - Weight: 0.13515503603605478
+  D2: Frequency: 2 - Weight: 0.13515503603605478
   D5: Frequency: 1 - Weight: 0.08109302162163289
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+  D6: Frequency: 1 - Weight: 0.04505167867868493
 match:
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 sep:
-  D2: Frequency: 2 - Weight: 0.24413606414846883
-  D2: Frequency: 2 - Weight: 0.24413606414846883
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+  D2: Frequency: 2 - Weight: 0.3662040962227032
 encod:
-  D2: Frequency: 3 - Weight: 0.23104906018664842
-  D2: Frequency: 3 - Weight: 0.23104906018664842
-  D2: Frequency: 3 - Weight: 0.23104906018664842
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D2: Frequency: 2 - Weight: 0.23104906018664842
   D5: Frequency: 2 - Weight: 0.2772588722239781
   D5: Frequency: 2 - Weight: 0.2772588722239781
+query.:
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D5: Frequency: 2 - Weight: 0.2772588722239781
+  D5: Frequency: 2 - Weight: 0.2772588722239781
+bas:
+  D2: Frequency: 1 - Weight: 0.06757751801802739
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D6: Frequency: 1 - Weight: 0.04505167867868493
 sent:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-sbert:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+(sbert):
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+architecture,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 gen:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 2 - Weight: 0.12602676010180824
-  D6: Frequency: 2 - Weight: 0.12602676010180824
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D6: Frequency: 2 - Weight: 0.15403270679109896
+  D6: Frequency: 2 - Weight: 0.15403270679109896
+queries.:
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+study:
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D4: Frequency: 1 - Weight: 0.09902102579427789
 also:
-  D2: Frequency: 1 - Weight: 0.020257950754883843
-  D3: Frequency: 1 - Weight: 0.020257950754883843
-  D4: Frequency: 1 - Weight: 0.020257950754883843
-  D6: Frequency: 1 - Weight: 0.0165746869812686
+  D2: Frequency: 1 - Weight: 0.030386926132325763
+  D3: Frequency: 1 - Weight: 0.03646431135879092
+  D4: Frequency: 1 - Weight: 0.026045936684850654
+  D6: Frequency: 1 - Weight: 0.020257950754883843
 maxim:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 tok:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D4: Frequency: 2 - Weight: 0.15403270679109896
-  D4: Frequency: 2 - Weight: 0.15403270679109896
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D4: Frequency: 2 - Weight: 0.19804205158855578
+  D4: Frequency: 2 - Weight: 0.19804205158855578
 leng:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 limit:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D3: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 summ:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 lengthy:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-addit:
-  D2: Frequency: 1 - Weight: 0.04505167867868493
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+documents.:
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+addition,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 improv:
-  D2: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+  D2: Frequency: 1 - Weight: 0.06757751801802739
+  D4: Frequency: 1 - Weight: 0.05792358687259491
+  D6: Frequency: 1 - Weight: 0.04505167867868493
 clar:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 complet:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 short:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 reduc:
-  D2: Frequency: 1 - Weight: 0.04505167867868493
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 2 - Weight: 0.09010335735736986
-  D4: Frequency: 2 - Weight: 0.09010335735736986
-gap:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-employ:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.06757751801802739
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 2 - Weight: 0.11584717374518982
+  D4: Frequency: 2 - Weight: 0.11584717374518982
+gap,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+employed.:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 index:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 1 - Weight: 0.11552453009332421
   D5: Frequency: 2 - Weight: 0.2772588722239781
   D5: Frequency: 2 - Weight: 0.2772588722239781
 us:
@@ -569,94 +495,76 @@ us:
   D6: Frequency: 3 - Weight: 0.0
   D6: Frequency: 3 - Weight: 0.0
 elasticsearch:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-engin:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-spec:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-cross:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-rank:
-  D2: Frequency: 1 - Weight: 0.0
-  D3: Frequency: 1 - Weight: 0.0
-  D4: Frequency: 7 - Weight: 0.0
-  D4: Frequency: 7 - Weight: 0.0
-  D4: Frequency: 7 - Weight: 0.0
-  D4: Frequency: 7 - Weight: 0.0
-  D4: Frequency: 7 - Weight: 0.0
-  D4: Frequency: 7 - Weight: 0.0
-  D4: Frequency: 7 - Weight: 0.0
-  D5: Frequency: 1 - Weight: 0.0
-  D6: Frequency: 2 - Weight: 0.0
-  D6: Frequency: 2 - Weight: 0.0
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+engine,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+query-specific:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+finally,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+bert-based:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+cross-encoder:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+re-rank:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 relev:
-  D2: Frequency: 1 - Weight: 0.020257950754883843
-  D3: Frequency: 3 - Weight: 0.060773852264651526
-  D3: Frequency: 3 - Weight: 0.060773852264651526
-  D3: Frequency: 3 - Weight: 0.060773852264651526
+  D2: Frequency: 1 - Weight: 0.030386926132325763
+  D3: Frequency: 3 - Weight: 0.10939293407637275
+  D3: Frequency: 3 - Weight: 0.10939293407637275
+  D3: Frequency: 3 - Weight: 0.10939293407637275
   D5: Frequency: 1 - Weight: 0.03646431135879092
-  D6: Frequency: 3 - Weight: 0.04972406094380579
-  D6: Frequency: 3 - Weight: 0.04972406094380579
-  D6: Frequency: 3 - Weight: 0.04972406094380579
+  D6: Frequency: 1 - Weight: 0.020257950754883843
 record:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-self:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-at:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-input:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+self-attention:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+inputs,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 rich:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 interact:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 2 - Weight: 0.12602676010180824
-  D6: Frequency: 2 - Weight: 0.12602676010180824
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 produc:
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D2: Frequency: 2 - Weight: 0.15403270679109896
-  D3: Frequency: 1 - Weight: 0.07701635339554948
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D2: Frequency: 2 - Weight: 0.23104906018664842
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+fin:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+results.:
+  D2: Frequency: 2 - Weight: 0.3662040962227032
+  D2: Frequency: 2 - Weight: 0.3662040962227032
 assess:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+performance,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 conduc:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 two:
-  D2: Frequency: 1 - Weight: 0.07701635339554948
-  D5: Frequency: 2 - Weight: 0.2772588722239781
-  D5: Frequency: 2 - Weight: 0.2772588722239781
-wel:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-known:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-dataset:
-  D2: Frequency: 1 - Weight: 0.0
-  D3: Frequency: 6 - Weight: 0.0
-  D3: Frequency: 6 - Weight: 0.0
-  D3: Frequency: 6 - Weight: 0.0
-  D3: Frequency: 6 - Weight: 0.0
-  D3: Frequency: 6 - Weight: 0.0
-  D3: Frequency: 6 - Weight: 0.0
-  D4: Frequency: 1 - Weight: 0.0
-  D5: Frequency: 1 - Weight: 0.0
-  D6: Frequency: 1 - Weight: 0.0
-cds:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-2014:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
-ohsum:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D5: Frequency: 1 - Weight: 0.13862943611198905
+well-known:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+datasets,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+trec-cds-2014:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+ohsumed.:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 analys:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 carry:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
+out,:
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 clear:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 demonst:
-  D2: Frequency: 1 - Weight: 0.020257950754883843
-  D4: Frequency: 2 - Weight: 0.040515901509767686
-  D4: Frequency: 2 - Weight: 0.040515901509767686
+  D2: Frequency: 1 - Weight: 0.030386926132325763
+  D4: Frequency: 2 - Weight: 0.05209187336970131
+  D4: Frequency: 2 - Weight: 0.05209187336970131
   D5: Frequency: 1 - Weight: 0.03646431135879092
-  D6: Frequency: 1 - Weight: 0.0165746869812686
+  D6: Frequency: 1 - Weight: 0.020257950754883843
 propos:
   D2: Frequency: 1 - Weight: 0.0
   D3: Frequency: 1 - Weight: 0.0
@@ -667,295 +575,357 @@ propos:
   D6: Frequency: 3 - Weight: 0.0
   D6: Frequency: 3 - Weight: 0.0
 framework:
-  D2: Frequency: 1 - Weight: 0.04505167867868493
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
+  D2: Frequency: 1 - Weight: 0.11552453009332421
+  D3: Frequency: 1 - Weight: 0.13862943611198905
 competit:
-  D2: Frequency: 1 - Weight: 0.12206803207423442
+  D2: Frequency: 1 - Weight: 0.1831020481113516
 sci:
-  D3: Frequency: 5 - Weight: 0.6103401603711721
-  D3: Frequency: 5 - Weight: 0.6103401603711721
-  D3: Frequency: 5 - Weight: 0.6103401603711721
-  D3: Frequency: 5 - Weight: 0.6103401603711721
-  D3: Frequency: 5 - Weight: 0.6103401603711721
+  D3: Frequency: 4 - Weight: 0.8788898309344879
+  D3: Frequency: 4 - Weight: 0.8788898309344879
+  D3: Frequency: 4 - Weight: 0.8788898309344879
+  D3: Frequency: 4 - Weight: 0.8788898309344879
+research,:
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 abl:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-complex:
-  D3: Frequency: 7 - Weight: 0.854476224519641
-  D3: Frequency: 7 - Weight: 0.854476224519641
-  D3: Frequency: 7 - Weight: 0.854476224519641
-  D3: Frequency: 7 - Weight: 0.854476224519641
-  D3: Frequency: 7 - Weight: 0.854476224519641
-  D3: Frequency: 7 - Weight: 0.854476224519641
-  D3: Frequency: 7 - Weight: 0.854476224519641
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+complex,:
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
 multifacet:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-crit:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+critical.:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 ex:
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 1 - Weight: 0.05792358687259491
+  D6: Frequency: 1 - Weight: 0.04505167867868493
 evalu:
-  D3: Frequency: 2 - Weight: 0.09010335735736986
-  D3: Frequency: 2 - Weight: 0.09010335735736986
-  D4: Frequency: 2 - Weight: 0.09010335735736986
-  D4: Frequency: 2 - Weight: 0.09010335735736986
-  D6: Frequency: 1 - Weight: 0.036860464373469494
+  D3: Frequency: 2 - Weight: 0.16218604324326577
+  D3: Frequency: 2 - Weight: 0.16218604324326577
+  D4: Frequency: 2 - Weight: 0.11584717374518982
+  D4: Frequency: 2 - Weight: 0.11584717374518982
+  D6: Frequency: 1 - Weight: 0.04505167867868493
+dataset:
+  D3: Frequency: 5 - Weight: 0.4054651081081644
+  D3: Frequency: 5 - Weight: 0.4054651081081644
+  D3: Frequency: 5 - Weight: 0.4054651081081644
+  D3: Frequency: 5 - Weight: 0.4054651081081644
+  D3: Frequency: 5 - Weight: 0.4054651081081644
+  D4: Frequency: 1 - Weight: 0.05792358687259491
+  D6: Frequency: 1 - Weight: 0.04505167867868493
 task:
-  D3: Frequency: 3 - Weight: 0.23104906018664842
-  D3: Frequency: 3 - Weight: 0.23104906018664842
-  D3: Frequency: 3 - Weight: 0.23104906018664842
-  D4: Frequency: 1 - Weight: 0.07701635339554948
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+limited,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 prim:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 due:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+high:
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 3 - Weight: 0.17377076061778474
+  D4: Frequency: 3 - Weight: 0.17377076061778474
+  D4: Frequency: 3 - Weight: 0.17377076061778474
+  D6: Frequency: 1 - Weight: 0.04505167867868493
 cost:
-  D3: Frequency: 2 - Weight: 0.15403270679109896
-  D3: Frequency: 2 - Weight: 0.15403270679109896
-  D4: Frequency: 1 - Weight: 0.07701635339554948
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D4: Frequency: 1 - Weight: 0.09902102579427789
 effort:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 requir:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
 annot:
-  D3: Frequency: 6 - Weight: 0.7324081924454064
-  D3: Frequency: 6 - Weight: 0.7324081924454064
-  D3: Frequency: 6 - Weight: 0.7324081924454064
-  D3: Frequency: 6 - Weight: 0.7324081924454064
-  D3: Frequency: 6 - Weight: 0.7324081924454064
-  D3: Frequency: 6 - Weight: 0.7324081924454064
+  D3: Frequency: 4 - Weight: 0.8788898309344879
+  D3: Frequency: 4 - Weight: 0.8788898309344879
+  D3: Frequency: 4 - Weight: 0.8788898309344879
+  D3: Frequency: 4 - Weight: 0.8788898309344879
 resourc:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+complex:
+  D3: Frequency: 5 - Weight: 1.0986122886681098
+  D3: Frequency: 5 - Weight: 1.0986122886681098
+  D3: Frequency: 5 - Weight: 1.0986122886681098
+  D3: Frequency: 5 - Weight: 1.0986122886681098
+  D3: Frequency: 5 - Weight: 1.0986122886681098
+this,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 novel:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D4: Frequency: 1 - Weight: 0.07701635339554948
-mult:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-level:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-aspect:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-dor:
-  D3: Frequency: 4 - Weight: 0.48827212829693767
-  D3: Frequency: 4 - Weight: 0.48827212829693767
-  D3: Frequency: 4 - Weight: 0.48827212829693767
-  D3: Frequency: 4 - Weight: 0.48827212829693767
-mae:
-  D3: Frequency: 4 - Weight: 0.48827212829693767
-  D3: Frequency: 4 - Weight: 0.48827212829693767
-  D3: Frequency: 4 - Weight: 0.48827212829693767
-  D3: Frequency: 4 - Weight: 0.48827212829693767
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D4: Frequency: 1 - Weight: 0.09902102579427789
+task,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+multi-level:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+aspect-based:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+(doris-mae),:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 handl:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
 nat:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+research.:
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
 develop:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 benchmark:
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
-  D5: Frequency: 2 - Weight: 0.16218604324326577
-  D5: Frequency: 2 - Weight: 0.16218604324326577
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 within:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D4: Frequency: 1 - Weight: 0.07701635339554948
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D4: Frequency: 1 - Weight: 0.09902102579427789
 field:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 comput:
-  D3: Frequency: 1 - Weight: 0.020257950754883843
-  D4: Frequency: 2 - Weight: 0.040515901509767686
-  D4: Frequency: 2 - Weight: 0.040515901509767686
+  D3: Frequency: 1 - Weight: 0.03646431135879092
+  D4: Frequency: 2 - Weight: 0.05209187336970131
+  D4: Frequency: 2 - Weight: 0.05209187336970131
   D5: Frequency: 1 - Weight: 0.03646431135879092
-  D6: Frequency: 1 - Weight: 0.0165746869812686
+  D6: Frequency: 1 - Weight: 0.020257950754883843
+science,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 consist:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D4: Frequency: 1 - Weight: 0.07701635339554948
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D4: Frequency: 1 - Weight: 0.09902102579427789
 100:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-hum:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-auth:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-cas:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+human-authored:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+cases.:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+query,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 assembl:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 collect:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 scor:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D4: Frequency: 1 - Weight: 0.07701635339554948
-recogn:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-lab:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-expert:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-introduc:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D5: Frequency: 1 - Weight: 0.13862943611198905
-anno:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-scal:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-valid:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-500x:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-without:
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-  D3: Frequency: 2 - Weight: 0.24413606414846883
-comprom:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-furtherm:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-tier:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-structure:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D5: Frequency: 3 - Weight: 0.4158883083359672
-  D5: Frequency: 3 - Weight: 0.4158883083359672
-  D5: Frequency: 3 - Weight: 0.4158883083359672
-extend:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-000:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-sub:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-test:
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
-  D6: Frequency: 1 - Weight: 0.036860464373469494
-17:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-rec:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-method:
-  D3: Frequency: 1 - Weight: 0.04505167867868493
-  D4: Frequency: 1 - Weight: 0.04505167867868493
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D4: Frequency: 1 - Weight: 0.09902102579427789
+rank:
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 4 - Weight: 0.23169434749037965
+  D4: Frequency: 4 - Weight: 0.23169434749037965
+  D4: Frequency: 4 - Weight: 0.23169434749037965
+  D4: Frequency: 4 - Weight: 0.23169434749037965
   D5: Frequency: 1 - Weight: 0.08109302162163289
+them.:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+recogn:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+lab:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+expert:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+annotation,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+introduc:
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D5: Frequency: 1 - Weight: 0.13862943611198905
+anno-gpt,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+scal:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+valid:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+expert-level:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+tasks.:
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D4: Frequency: 1 - Weight: 0.09902102579427789
+doris-mae:
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+500x:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+cost,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+without:
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+  D3: Frequency: 2 - Weight: 0.43944491546724396
+comprom:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+quality.:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+furthermore,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+multi-tiered:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+structure:
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D5: Frequency: 2 - Weight: 0.2772588722239781
+  D5: Frequency: 2 - Weight: 0.2772588722239781
+queries,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+extend:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+4,000:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+sub-query:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+test:
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 1 - Weight: 0.05792358687259491
+  D6: Frequency: 1 - Weight: 0.04505167867868493
+cas:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+addit:
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+annotation.:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+17:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+rec:
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+method:
+  D3: Frequency: 1 - Weight: 0.08109302162163289
+  D4: Frequency: 1 - Weight: 0.05792358687259491
+  D5: Frequency: 1 - Weight: 0.08109302162163289
+doris-mae,:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 observ:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 not:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
+  D3: Frequency: 1 - Weight: 0.13862943611198905
   D5: Frequency: 1 - Weight: 0.13862943611198905
 drop:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
+  D3: Frequency: 1 - Weight: 0.21972245773362198
 tradit:
-  D3: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 2 - Weight: 0.12602676010180824
-  D6: Frequency: 2 - Weight: 0.12602676010180824
-highlight:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-nee:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-bet:
-  D3: Frequency: 1 - Weight: 0.12206803207423442
-impress:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-pointw:
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-pairw:
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-prompt:
-  D4: Frequency: 3 - Weight: 0.3662040962227032
-  D4: Frequency: 3 - Weight: 0.3662040962227032
-  D4: Frequency: 3 - Weight: 0.3662040962227032
-begin:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-thorough:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-consid:
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-fact:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-lik:
-  D4: Frequency: 1 - Weight: 0.07701635339554948
+  D3: Frequency: 1 - Weight: 0.13862943611198905
+  D6: Frequency: 2 - Weight: 0.15403270679109896
+  D6: Frequency: 2 - Weight: 0.15403270679109896
+datasets.:
+  D3: Frequency: 1 - Weight: 0.13862943611198905
   D5: Frequency: 1 - Weight: 0.13862943611198905
-consum:
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-  D4: Frequency: 2 - Weight: 0.24413606414846883
-lat:
-  D4: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 2 - Weight: 0.12602676010180824
-  D6: Frequency: 2 - Weight: 0.12602676010180824
+highlight:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+nee:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+bet:
+  D3: Frequency: 1 - Weight: 0.21972245773362198
+impress:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+pointwise,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+pairwise,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+prompt:
+  D4: Frequency: 3 - Weight: 0.47083383800061845
+  D4: Frequency: 3 - Weight: 0.47083383800061845
+  D4: Frequency: 3 - Weight: 0.47083383800061845
+llm-based:
+  D4: Frequency: 3 - Weight: 0.47083383800061845
+  D4: Frequency: 3 - Weight: 0.47083383800061845
+  D4: Frequency: 3 - Weight: 0.47083383800061845
+ranking.:
+  D4: Frequency: 2 - Weight: 0.19804205158855578
+  D4: Frequency: 2 - Weight: 0.19804205158855578
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+begin:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+thorough:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+framework,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+consid:
+  D4: Frequency: 2 - Weight: 0.31388922533374564
+  D4: Frequency: 2 - Weight: 0.31388922533374564
+fact:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+lik:
+  D4: Frequency: 1 - Weight: 0.09902102579427789
+  D5: Frequency: 1 - Weight: 0.13862943611198905
+size,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+consumption,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+latency,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 among:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-oth:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-kind:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+others.:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+first-of-its-kind:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 allow:
-  D4: Frequency: 1 - Weight: 0.07701635339554948
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D4: Frequency: 1 - Weight: 0.09902102579427789
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 ident:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-trad:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-off:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+trade-offs:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 efficy:
-  D4: Frequency: 4 - Weight: 0.3080654135821979
-  D4: Frequency: 4 - Weight: 0.3080654135821979
-  D4: Frequency: 4 - Weight: 0.3080654135821979
-  D4: Frequency: 4 - Weight: 0.3080654135821979
+  D4: Frequency: 3 - Weight: 0.29706307738283366
+  D4: Frequency: 3 - Weight: 0.29706307738283366
+  D4: Frequency: 3 - Weight: 0.29706307738283366
   D5: Frequency: 2 - Weight: 0.2772588722239781
   D5: Frequency: 2 - Weight: 0.2772588722239781
 inh:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+approach.:
+  D4: Frequency: 2 - Weight: 0.31388922533374564
+  D4: Frequency: 2 - Weight: 0.31388922533374564
 find:
-  D4: Frequency: 1 - Weight: 0.07701635339554948
+  D4: Frequency: 1 - Weight: 0.09902102579427789
   D5: Frequency: 1 - Weight: 0.13862943611198905
+pointw:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+efficiency,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 suff:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 poor:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-convers:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+effectiveness.:
+  D4: Frequency: 2 - Weight: 0.31388922533374564
+  D4: Frequency: 2 - Weight: 0.31388922533374564
+conversely,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+pairw:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 supery:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 int:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-overhead:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+overhead.:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 enh:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+ranking,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 setw:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 numb:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 inf:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 amount:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
-proc:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+consum:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+procedure,:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 dl:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 beir:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
+benchmark.:
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 empir:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 ind:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 retain:
-  D4: Frequency: 1 - Weight: 0.12206803207423442
+  D4: Frequency: 1 - Weight: 0.15694461266687282
 industry:
   D5: Frequency: 2 - Weight: 0.43944491546724396
   D5: Frequency: 2 - Weight: 0.43944491546724396
@@ -963,8 +933,8 @@ standard:
   D5: Frequency: 3 - Weight: 0.4158883083359672
   D5: Frequency: 3 - Weight: 0.4158883083359672
   D5: Frequency: 3 - Weight: 0.4158883083359672
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-problem:
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+problems,:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 obtain:
   D5: Frequency: 1 - Weight: 0.21972245773362198
@@ -975,22 +945,23 @@ giv:
   D5: Frequency: 2 - Weight: 0.43944491546724396
 techn:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-stag:
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-process:
+two-stage:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+process::
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+(a):
   D5: Frequency: 1 - Weight: 0.21972245773362198
 contrast:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 train:
   D5: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 dual:
   D5: Frequency: 2 - Weight: 0.43944491546724396
   D5: Frequency: 2 - Weight: 0.43944491546724396
 emb:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-b:
+(b):
   D5: Frequency: 1 - Weight: 0.21972245773362198
 approxim:
   D5: Frequency: 1 - Weight: 0.21972245773362198
@@ -998,36 +969,41 @@ nearest:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 neighb:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-an:
-  D5: Frequency: 5 - Weight: 1.0986122886681098
-  D5: Frequency: 5 - Weight: 1.0986122886681098
-  D5: Frequency: 5 - Weight: 1.0986122886681098
-  D5: Frequency: 5 - Weight: 1.0986122886681098
-  D5: Frequency: 5 - Weight: 1.0986122886681098
+(anns):
+  D5: Frequency: 1 - Weight: 0.21972245773362198
 simil:
   D5: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-disjoint:
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+stag:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+disjoint;:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 might:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-il:
+ill-suited:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-suit:
-  D5: Frequency: 1 - Weight: 0.21972245773362198
-vic:
-  D5: Frequency: 1 - Weight: 0.21972245773362198
-vers:
+an:
+  D5: Frequency: 3 - Weight: 0.6591673732008658
+  D5: Frequency: 3 - Weight: 0.6591673732008658
+  D5: Frequency: 3 - Weight: 0.6591673732008658
+vice-versa,:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 lead:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 suboptim:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-end:
+performance.:
   D5: Frequency: 2 - Weight: 0.43944491546724396
   D5: Frequency: 2 - Weight: 0.43944491546724396
+work,:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+end-to-end:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
 hierarch:
   D5: Frequency: 1 - Weight: 0.21972245773362198
+--:
+  D5: Frequency: 2 - Weight: 0.43944491546724396
+  D5: Frequency: 2 - Weight: 0.43944491546724396
 eh:
   D5: Frequency: 5 - Weight: 1.0986122886681098
   D5: Frequency: 5 - Weight: 1.0986122886681098
@@ -1042,19 +1018,23 @@ invert:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 fil:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-ivf:
+(ivf):
   D5: Frequency: 1 - Weight: 0.21972245773362198
 styl:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 tre:
-  D5: Frequency: 3 - Weight: 0.6591673732008658
-  D5: Frequency: 3 - Weight: 0.6591673732008658
-  D5: Frequency: 3 - Weight: 0.6591673732008658
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+anns.:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
 ens:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 stabl:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 discret:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+tree-based:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+structure,:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 path:
   D5: Frequency: 1 - Weight: 0.21972245773362198
@@ -1062,118 +1042,143 @@ capt:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 posit:
   D5: Frequency: 1 - Weight: 0.21972245773362198
+query/document:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+tree.:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
 sev:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+benchmarks,:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 includ:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-de:
-  D5: Frequency: 1 - Weight: 0.21972245773362198
-facto:
+de-facto:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 ms:
   D5: Frequency: 2 - Weight: 0.2772588722239781
   D5: Frequency: 2 - Weight: 0.2772588722239781
-  D6: Frequency: 1 - Weight: 0.06301338005090412
+  D6: Frequency: 1 - Weight: 0.07701635339554948
 marco:
   D5: Frequency: 2 - Weight: 0.2772588722239781
   D5: Frequency: 2 - Weight: 0.2772588722239781
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-dev:
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-dl19:
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-exampl:
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+(dev:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-budget:
+set:
+  D5: Frequency: 2 - Weight: 0.43944491546724396
+  D5: Frequency: 2 - Weight: 0.43944491546724396
+dl19):
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+example,:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+budget,:
   D5: Frequency: 1 - Weight: 0.21972245773362198
 outperform:
   D5: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-stat:
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+state-of-the-art:
   D5: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-art:
-  D5: Frequency: 1 - Weight: 0.13862943611198905
-  D6: Frequency: 1 - Weight: 0.06301338005090412
-sot:
+  D6: Frequency: 1 - Weight: 0.07701635339554948
+(sota):
   D5: Frequency: 1 - Weight: 0.21972245773362198
-0:
+0.6%:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-6:
+(mrr@10):
   D5: Frequency: 1 - Weight: 0.21972245773362198
-mrr:
+dev:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-10:
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-  D5: Frequency: 2 - Weight: 0.43944491546724396
-2:
+4.2%:
   D5: Frequency: 1 - Weight: 0.21972245773362198
-ndcg:
+(ndcg@10):
   D5: Frequency: 1 - Weight: 0.21972245773362198
-qe:
-  D6: Frequency: 4 - Weight: 0.3994953776974945
-  D6: Frequency: 4 - Weight: 0.3994953776974945
-  D6: Frequency: 4 - Weight: 0.3994953776974945
-  D6: Frequency: 4 - Weight: 0.3994953776974945
+dl19:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+benchmarks.:
+  D5: Frequency: 1 - Weight: 0.21972245773362198
+(qe):
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 common:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-ir:
-  D6: Frequency: 2 - Weight: 0.19974768884874725
-  D6: Frequency: 2 - Weight: 0.19974768884874725
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+(ir):
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+models.:
+  D6: Frequency: 2 - Weight: 0.24413606414846883
+  D6: Frequency: 2 - Weight: 0.24413606414846883
 adopt:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+ir:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 neur:
-  D6: Frequency: 3 - Weight: 0.29962153327312085
-  D6: Frequency: 3 - Weight: 0.29962153327312085
-  D6: Frequency: 3 - Weight: 0.29962153327312085
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+qe:
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+  D6: Frequency: 3 - Weight: 0.3662040962227032
 emerg:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-year:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+years.:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 many:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 foc:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-term:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-howev:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+query-document:
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+  D6: Frequency: 3 - Weight: 0.3662040962227032
+relevance.:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+terms.:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+however,:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 oft:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 ign:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+interactions.:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 aim:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+gap:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 condit:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 vary:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-autoencod:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+autoencoder.:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 map:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 pair:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+lat:
+  D6: Frequency: 2 - Weight: 0.24413606414846883
+  D6: Frequency: 2 - Weight: 0.24413606414846883
+interaction,:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 estim:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 feedback:
-  D6: Frequency: 2 - Weight: 0.19974768884874725
-  D6: Frequency: 2 - Weight: 0.19974768884874725
-pseudo:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-tim:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 2 - Weight: 0.24413606414846883
+  D6: Frequency: 2 - Weight: 0.24413606414846883
+pseudo-relevance:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+time.:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 three:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+ranking::
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 robust:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 04:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-gov02:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+gov02,:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
 pass:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
-baselin:
-  D6: Frequency: 1 - Weight: 0.09987384442437362
+  D6: Frequency: 1 - Weight: 0.12206803207423442
+baselines.:
+  D6: Frequency: 1 - Weight: 0.12206803207423442
